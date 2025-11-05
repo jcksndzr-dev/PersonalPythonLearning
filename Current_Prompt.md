@@ -1,32 +1,48 @@
-🧠 Project Idea: "Daily Mood Journal CLI App"
-🎯 Objective
+# 🧠 Project: Daily Mood Journal CLI App
+
+## 🎯 Objective
 Build a command-line application that lets users log their mood each day, along with a short note. The app should store entries, allow users to view past logs, and maybe even show mood trends over time.
 
-🛠️ Features to Implement
-Add a new journal entry: Prompt for date, mood (e.g., happy, sad, stressed), and a short note.
+---
 
-View entries: Show all past entries or filter by mood.
+## 🛠️ Features to Implement
 
-Save entries: Store data in a file so it persists between sessions.
+### ➕ Add a New Journal Entry
+- Prompt for:
+  - Date
+  - Mood (e.g., happy, sad, stressed)
+  - Short note
 
-Analyze trends (optional): Count how many times each mood appears.
+### 📖 View Entries
+- Show all past entries
+- Optionally filter by mood
 
-📚 Concepts You'll Practice
-Input/output
+### 💾 Save Entries
+- Store data in a file so it persists between sessions
 
-Data structures (lists, dictionaries)
+### 📊 Analyze Trends (Optional)
+- Count how many times each mood appears
 
-File handling
+---
 
-Loops and conditionals
+## 🧠 Concepts You'll Practice
+- Input/output
+- Data structures (lists, dictionaries)
+- File handling
+- Loops and conditionals
+- Functions and modular design
 
-Functions and modular design
+---
 
-🌱 Stretch Goals (Optional)
-Add a simple password to protect the journal
+## 🌱 Stretch Goals (Optional)
+- Add a simple password to protect the journal
+- Use emojis to represent moods
+- Export entries to a CSV file
+- Build a basic GUI with Tkinter
 
-Use emojis to represent moods
+---
 
-Export entries to a CSV file
-
-Build a basic GUI with Tkinter
+## 📚 Resources
+- [Python Docs](https://docs.python.org/3/)
+- [W3Schools Python Tutorial](https://www.w3schools.com/python/)
+- [Real Python](https://realpython.com/)
